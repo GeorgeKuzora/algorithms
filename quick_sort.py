@@ -68,7 +68,7 @@ def quick(array, lo, hi):
 
 
 if __name__ == "__main__":
-    array = [3, 5, -1, 10, 57, 12, -7, -8, 23, 4, 2, 1]
+    array = [3, 2, -1, 10, 51, 12, -7, -8, 23, 4, 2, 1]
     print(array)
     quick(array, 0, len(array) - 1)
     print(array)
