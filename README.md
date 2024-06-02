@@ -1,3 +1,3 @@
 # algorithms
 
-New repository.
+Учебный проект изучения алгоритмов.
